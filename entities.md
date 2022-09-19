@@ -3,11 +3,11 @@
 ## Subgraph Entities
 
 ### Entities for the LOOKS Distribution Subgraph are all listed below.
-- User
-- DailySnapshot
-- Overview
-- RewardPeriod
-- AggregatorConversion
+- [User](#User)
+- [DailySnapshot](#DailySnapshot)
+- [Overview](#Overview)
+- [RewardPeriod](#RewardPeriod)
+- [AggregatorConversion](#AggregatorConversion)
 
 ## User
 | Field                                   | Type        | Description                                   |
