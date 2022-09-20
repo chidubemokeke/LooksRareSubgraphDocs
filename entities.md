@@ -1,7 +1,5 @@
 # LOOKS Distribution Subgraph Entities
 
-## Subgraph Entities
-
 ### Entities for the LOOKS Distribution Subgraph are all listed below.
 - [User](#User)
 - [DailySnapshot](#DailySnapshot)
