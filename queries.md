@@ -1,4 +1,9 @@
 
+---
+sidebar_position: 3
+title: Sample Queries
+---
+
 # Exchange Subgraph Examples
 
 ## Sample Queries
